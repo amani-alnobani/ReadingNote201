@@ -10,6 +10,7 @@
 | *file*      | *content* |
 | ----------- | ----------- |
 | [Lab01a]( https://amani-alnobani.github.io/ReadingNote201/lab01a)| Features of Markdown |
+| [Lab01a]()| 1 |
 |[Read01] | 2 |
 |[Read02] | 3 |
 |[Read03] | 4 |
